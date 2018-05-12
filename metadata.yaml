@@ -1,0 +1,39 @@
+_repo: Astronomical-MythsBased-on-Flammarions-s-History-of-the-Heavens_36495
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Blake, J. F. (John Frederick)
+    alias: Blake, John Frederick
+    birthdate: 1839
+    deathdate: 1906
+    gutenberg_agent_id: '38305'
+    url: http://www.gutenberg.org/2009/agents/38305
+  - agent_name: Flammarion, Camille
+    aliases:
+    - Filamaryon, Kamil
+    - Flammarion, Nicolas Camille
+    birthdate: 1842
+    deathdate: 1925
+    gutenberg_agent_id: '8763'
+    url: http://www.gutenberg.org/2009/agents/8763
+    wikipedia: http://en.wikipedia.org/wiki/Camille_Flammarion
+description: ''
+gutenberg_issued: '2011-06-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36495'
+  lccn: 06008781
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QB'
+- !lcsh 'Astronomy -- History'
+- !lcsh 'Cosmology'
+- !lcsh 'Constellations'
+title: 'Astronomical Myths: Based on Flammarions''s "History of the Heavens"'
+url: http://www.gutenberg.org/ebooks/36495
