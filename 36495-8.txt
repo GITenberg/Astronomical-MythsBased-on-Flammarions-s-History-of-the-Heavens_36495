@@ -842,7 +842,7 @@ reasonings are correct, or that they are easy to make. They say that
 there are two stars diametrically opposite which pass through the zodiac
 in 144 years; nothing can be made of this period, nor yet of another
 equally problematical one of 180 years; but if we multiply the two
-together we obtain 25,9×20, which is very nearly the length of the cycle
+together we obtain 25,920, which is very nearly the length of the cycle
 for the precession of the equinoxes.
 
 In this review of the ancient ideas of different peoples, we have
